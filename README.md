@@ -1,4 +1,4 @@
 # Roll a Ball Ultimate
 Roll A Ball Ultimate (By Ohdeymus)
 
-This is the graetest game ever.
+This is the greatest game ever.
